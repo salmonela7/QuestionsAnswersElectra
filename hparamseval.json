@@ -1,0 +1,1 @@
+{"model_size": "small", "task_names": ["squad"], "do_train": "False", "do_eval": "True", "init_checkpoint": "data/models/electra_small/finetuning_models/squad_model_1/"}
